@@ -32,4 +32,6 @@ The 2 main resources that helped me build this were:
 
 **\*Disclaimer:** _It's been almost 3 years since I worked on this actively, and there is a chance that both resources referenced above have changed (read "improved") since then._
 
+_Extra note: Upon visual inspection  it may appear that the images in `train_images` are the same as those in `test/input_image`. The former contains 74 images and is a subset of the latter which contains 334 images. The task at hand required us to have image resources allocated this way for training and testing, but this is not usually how things are done in practice._
+
 _Shoutout to Wuyeh Jobe, who helped me understand some pieces of the code I found confusing at the time._
