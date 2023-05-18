@@ -10,6 +10,7 @@ The 2 main resources that helped me build this were:
 2. Idiot Developer's [Polyp Segmentation using UNET tutorial](https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/)\*
 
 ---
+Example inputs and outputs:
 <table>
   <tr>
     <th>Input</th>
