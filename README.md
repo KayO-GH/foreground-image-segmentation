@@ -17,12 +17,12 @@ The 2 main resources that helped me build this were:
     <th>Output</th>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="https://github.com/KayO-GH/foreground-image-segmentation/assets/18174012/a49c583c-2dad-4989-84f1-a4c3f0c95fd4"/></td>
     <td></td>
     <td><img src="https://github.com/KayO-GH/foreground-image-segmentation/assets/18174012/35a5209a-bf59-459a-89d2-66e75a0fc254"/></td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="https://github.com/KayO-GH/foreground-image-segmentation/assets/18174012/6e37da25-2728-40df-ac3f-3b494d8b72e0"></td>
     <td></td>
     <td><img src="https://github.com/KayO-GH/foreground-image-segmentation/assets/18174012/9bd77f93-2892-4b37-811e-2d24d84a2ad2"/></td>
   </tr>
