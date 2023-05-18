@@ -6,8 +6,8 @@ New and improved techniques and models, like Meta's [Segment Anything Model (SAM
 The original usecase was polyp segmentation from colonoscopy images (_I know, not fun_ 😅), but this was repurposed for foreground segmentation of everyday objects.
 
 The 2 main resources that helped me build this were:
-1. The official [Tensorflow Segmentation Turtorial](https://www.tensorflow.org/tutorials/images/segmentation)
-2. Idiot Developer's [Polyp Segmentation using UNET tutorial](https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/)
+1. The official [Tensorflow Segmentation Turtorial](https://www.tensorflow.org/tutorials/images/segmentation)\*
+2. Idiot Developer's [Polyp Segmentation using UNET tutorial](https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/)\*
 
 ---
 <table>
@@ -27,7 +27,9 @@ The 2 main resources that helped me build this were:
     <td><img src="https://github.com/KayO-GH/foreground-image-segmentation/assets/18174012/9bd77f93-2892-4b37-811e-2d24d84a2ad2"/></td>
   </tr>
 </table>
+
 ---
-**Note:** _It's been almost 3 years since I did this, and there is a chance that both resources referenced above have changed (read "improved") since then._
+
+**\*Disclaimer:** _It's been almost 3 years since I worked on this actively, and there is a chance that both resources referenced above have changed (read "improved") since then._
 
 _Shoutout to Wuyeh Jobe, who helped me understand some pieces of the code I found confusing at the time._
